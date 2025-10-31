@@ -1,0 +1,116 @@
+{
+  "cols": [
+    "id",
+    "name",
+    "email",
+    "postalZip",
+    "phone"
+  ],
+  "data": [
+    [
+      1,
+      "Alice Johnson",
+      "alice@yahoo.com",
+      "12345",
+      "(816) 530-4269"
+    ],
+    [
+      2,
+      "Bob Smith",
+      "bob@outlook.com",
+      67890,
+      "1-811-920-9732"
+    ],
+    [
+      3,
+      "Charlie Brown",
+      "charlie@hotmail.com",
+      "AB123",
+      "202-555-0181"
+    ],
+    [
+      4,
+      "Diana Prince",
+      "diana@company.org",
+      "00987",
+      "+44 7700 900123"
+    ],
+    [
+      5,
+      "Ethan Hunt",
+      "ethan@mail.com",
+      "45XY67",
+      "555.123.4567"
+    ],
+    [
+      6,
+      "Fiona Gallagher",
+      "fiona@random.net",
+      "XY90876",
+      "(212)-999-8888"
+    ],
+    [
+      7,
+      "George Miller",
+      "george@custom.co",
+      112233,
+      "001-445-7823"
+    ],
+    [
+      8,
+      "Hannah Wells",
+      "hannah@yahoo.co.in",
+      "ZIP90012",
+      "+1 (310) 555-7890"
+    ],
+    [
+      9,
+      "Ian Curtis",
+      "ian@music.org",
+      "123ABC456",
+      "404.555.1212"
+    ],
+    [
+      10,
+      "Julia Roberts",
+      "julia@celebs.net",
+      "00000",
+      "987-654-3210"
+    ],
+    [
+      11,
+      "Kevin Hart",
+      "kevin@funny.tv",
+      "75001",
+      "(555) 000-9999"
+    ],
+    [
+      12,
+      "Linda Carter",
+      "linda@wonder.org",
+      "CA-90210",
+      "777 888 999"
+    ],
+    [
+      13,
+      "Michael Scott",
+      "michael@dundermifflin.com",
+      "Scranton18503",
+      "570-555-1234"
+    ],
+    [
+      14,
+      "Nina Dobrev",
+      "nina@hollywood.ca",
+      "M5V3L9",
+      "+1-647-123-9876"
+    ],
+    [
+      15,
+      "Oscar Wilde",
+      "oscar@classics.uk",
+      "OX1 3BG",
+      "+44 1865 123456"
+    ]
+  ]
+}
